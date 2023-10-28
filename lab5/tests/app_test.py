@@ -84,3 +84,9 @@ def test_delete_message(client):
     rv = client.get("/delete/1")
     data = json.loads(rv.data)
     assert data["status"] == 1
+
+
+def test_search(client):
+    """Ensure search is working"""
+    response = client.get("/search?query=testing", content_type="html/text")
+    assert response.status_code == 308  # should get redirected
