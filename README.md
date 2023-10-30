@@ -21,8 +21,8 @@ This repo is reproduced based on https://github.com/mjhea0/flaskr-tdd
     errors in the code. It is very common that the code passes all the testcases developed but still has some 
     corner cases unchecked. The development of testcases also need to be careful.
 ### Activity 2 Final Result   
-URL for my test functions: 
-https://github.com/lyfuuoo/Group14-5-Guys/blob/3f61574e097f72192bfc8849085e35645c839279/backend/tests/test_backend.py#L24-L34
+URL for my test functions:    
+https://github.com/lyfuuoo/ECE444_F2023_Group14/blob/e83375e5e5f31ad0b9f8683d35ea3f96ec7e47d2/backend/tests/test_backend.py#L24-L34   
 ![alt text](lab5_5.png "Activity 2 ScreenShot")    
 ### Activity 1 Final web page and test results:   
 ![alt text](lab5_1.png "Activity 1 ScreenShot")    
